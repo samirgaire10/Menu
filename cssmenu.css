@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+    background : #aaeeff ;
+}
+
+nav{
+    padding : 10x 0 ;
+    text-align : center ;
+    background : #ffffff ;
+}
+
+nav ul {
+    margin :  0 ;
+    padding : 0 ;
+}
+nav ul li {
+    list-style :  none ;
+    display : inline-block ;
+    width : 18% ;
+    min-width : 90px ;
+    font-weight : bold ;
+}
+
+nav ul li a {
+    text-decoration : none ;
+    color : #333333 ;
+}
+
+nav ul li a:hover {
+    color : #E7DA66 ;
+}
